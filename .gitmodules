@@ -1,0 +1,12 @@
+[submodule "feh-battles"]
+	path = feh-battles
+	url = https://github.com/mk360/feh-battles
+[submodule "feh-server"]
+	path = feh-server
+	url = https://github.com/mk360/feh-server
+[submodule "feh"]
+	path = feh
+	url = https://github.com/mk360/feh
+[submodule "feh-showdown"]
+	path = feh-showdown
+	url = https://github.com/mk360/feh-showdown
